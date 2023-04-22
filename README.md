@@ -1,10 +1,10 @@
 SUMMARY
-In this project, I will be investigating a dataset of medical records to determine if patients show up for their medical appointment.
+In this project, I investigated a dataset of medical records to determine if patients show up for their medical appointment.
 
 INTRODUCTION
-I will be working with a dataset known as 'No show Appointment'.
+I worked with a dataset known as 'No show Appointment'.
 This dataset is focused on patients and how they keep up with their medical appointments.
-I will also be analyzing a number of characteristics about patients and how they relate to their medical appointments.
+I analyzed a number of characteristics about patients and how they relate to their medical appointments.
 This dataset contains 14 columns and some of them are;
 * PatientID - This is a unique identifier for all patients.
 * AppointmentID - This is also a unique identifier for every appointment.
